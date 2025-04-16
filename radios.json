@@ -8,5 +8,10 @@
         "name": "Alfa 91.3",
         "icon":  "https://static.mytuner.mobi/media/tvos_radios/329/alfa-913.163928d9.png",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC_SC"
+    },
+    {
+        "name": "Gallito 760 AM",
+        "icon":  "https://static.mytuner.mobi/media/tvos_radios/085/gallito-760-am.b93a19c3.png",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GALLITO_GDL_SC"
     }
 ]
