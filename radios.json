@@ -3,5 +3,10 @@
         "name": "Cumbias Inmortales Radio",
         "icon": "https://static.mytuner.mobi/media/tvos_radios/334/cumbias-inmortales-radio.73ce604c.png",
         "url": "https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen"
+    },
+    {
+        "name": "Alfa 91.3",
+        "icon":  "https://static.mytuner.mobi/media/tvos_radios/329/alfa-913.163928d9.png",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC_SC"
     }
 ]
