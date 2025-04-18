@@ -13,5 +13,20 @@
         "name": "Gallito 760 AM",
         "icon":  "https://static.mytuner.mobi/media/tvos_radios/085/gallito-760-am.b93a19c3.png",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GALLITO_GDL_SC"
+    },
+    {
+        "name": "La Sabrosita 590 AM",
+        "icon":  "https://static.mytuner.mobi/media/tvos_radios/942/sabrosita590am.8c0d14cc.png",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC_SC?pname=TDSdk"
+    },
+    {
+        "name": "La Ranchera 106.1 FM",
+        "icon":  "https://static.mytuner.mobi/media/tvos_radios/262/la-ranchera-1061-fm.2cb68683.png",
+        "url": "https://cast.zuperdns.net/8022/stream/;stream.mp3"
+    },
+    {
+        "name": "Latina Bachata",
+        "icon":  "https://static.mytuner.mobi/media/tvos_radios/28gwe9qp3fxw.png",
+        "url": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3"
     }
 ]
