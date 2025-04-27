@@ -10,6 +10,7 @@
          "free": true,
          "price": ""
       },
-      "money_type": "mxn"
+      "money_type": "mxn",
+      "payment_link": "https://buy.stripe.com/test_8wMbIM118gDK8tWeUU"
    }
 ]
