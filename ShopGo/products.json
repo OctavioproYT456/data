@@ -12,5 +12,19 @@
       },
       "money_type": "mxn",
       "payment_link": "https://buy.stripe.com/test_8wMbIM118gDK8tWeUU"
+   },
+   {
+      "id": 1,
+      "title": "Laptop Asus Tuf A16 Fa617nt 16'' Fhd+ 165hz Ryzen 7 7735hs Rx 7700s 16gb Ram 512gb Ssd",
+      "description": "Características del producto\n\nMemoria RAM: 16 GB\n\n\nCon pantalla táctil: No\n\n\nTamaño de la pantalla: 16 ''\n\nCaracterísticas generales\nMarca\nAsus\nLínea\nTUF Gaming\nModelo\nFA617NT-A16.R77700\nAlmacenamiento\nCapacidad de disco SSD\n512 GB\nProcesador\nTarjeta gráfica\nAMD Radeon RX 7700S\nMarca del procesador\nAMD\nLínea del procesador\nRyzen 7 7735HS\nModelo del procesador\n7735HS\nCantidad de núcleos\n8\nEspecificaciones\nEs ultrabook\nNo\nEs 2 en 1\nNo\nEs gamer\nSí\nBatería\nTipo de batería\nPolímero de litio\nOtros\nCon teclado retroiluminado\nSí\nMemoria\nMemoria RAM\n16 GB\nTipo de memoria RAM\nDDR5\nMemoria de video\n8 GB\nPantalla\nFrecuencia de actualización de la pantalla\n165 Hz\nResolución de la pantalla\n1920 px x 1200 px\nCon pantalla táctil\nNo\nTamaño de la pantalla\n16 ''\nSistema operativo\nNombre del sistema operativo\nWindows\nVersión del sistema operativo\n11\nEdición del sistema operativo\nHome\nConectividad\nCon USB\nSí\nCon Wi-Fi\nSí\nCon HDMI\nSí\nOtros\nEs netbook\nSí",
+      "img": "https://cdn1.coppel.com/images/catalog/mkp/9486/3000/94861197-1.jpg?iresize=width:800,height:800",
+      "price": "21,949",
+      "category": "Electrónica",
+      "send": {
+         "free": true,
+         "price": ""
+      },
+      "money_type": "mxn",
+      "payment_link": "https://buy.stripe.com/test_7sI0048tA5Z67pScMN"
    }
 ]
