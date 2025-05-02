@@ -22,5 +22,17 @@
         },
         "ip": "nautelious.aternos.me",
         "port": "49105"
+    },
+    {
+        "name": "NauticMC",
+        "icon": "",
+        "descripción": "",
+        "version": {
+            "server": "",
+            "multi": "yes",
+            "mc": "bedrock"
+        },
+        "ip": "",
+        "port": "19132"
     }
 ]
