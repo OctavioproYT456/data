@@ -12,15 +12,15 @@
         "port": "56508"
     },
     {
-        "name": "survival",
+        "name": "Nautelious",
         "icon": "https://example.com/survival.png",
-        "descripción": "§aServidor de supervivencia hardcore",
+        "descripción": "§7Bienvenido al servidor §2Nautelious",
         "version": {
             "server": "1.20.1",
             "multi": "no",
             "mc": "all"
         },
-        "ip": "survival.game",
-        "port": "19132"
+        "ip": "nautelious.aternos.me",
+        "port": "49105"
     }
 ]
