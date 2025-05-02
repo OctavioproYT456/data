@@ -37,7 +37,7 @@
     },
     {
         "name": "Technobot",
-        "icon": "",
+        "icon": "https://octavioproyt456.github.io/data/MC/001a6ba9-72c8-4bd6-96bf-b3930e6ccfd4.png",
         "descripción": "Bienvenido a §1Technobot",
         "version": {
             "server": "1.21.4",
