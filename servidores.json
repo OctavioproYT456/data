@@ -1,0 +1,27 @@
+// servidores.json
+[
+    {
+        "name": "friends",
+        "icon": "https://example.com/icon.png",
+        "descripción": "§2Bienvenido al servidor de §4Friends",
+        "version": {
+            "server": "1.21.4",
+            "multi": "yes",
+            "mc": "java"
+        },
+        "ip": "mc.friends.com",
+        "port": "25565"
+    },
+    {
+        "name": "survival",
+        "icon": "https://example.com/survival.png",
+        "descripción": "§aServidor de supervivencia hardcore",
+        "version": {
+            "server": "1.20.1",
+            "multi": "no",
+            "mc": "bedrock"
+        },
+        "ip": "survival.game",
+        "port": "19132"
+    }
+]
