@@ -16,8 +16,8 @@
         "icon": "https://example.com/survival.png",
         "descripción": "§7Bienvenido al servidor §2Nautelious",
         "version": {
-            "server": "1.20.1",
-            "multi": "no",
+            "server": "1.20.4",
+            "multi": "yes",
             "mc": "all"
         },
         "ip": "nautelious.aternos.me",
