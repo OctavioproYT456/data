@@ -30,7 +30,7 @@
         "version": {
             "server": "1.21.50+",
             "multi": "yes",
-            "mc": "bedrock"
+            "mc": "all"
         },
         "ip": "nauticbedrock.net",
         "port": "19132"
