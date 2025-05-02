@@ -28,7 +28,7 @@
         "icon": "",
         "descripción": "",
         "version": {
-            "server": "",
+            "server": "1.21.50+",
             "multi": "yes",
             "mc": "bedrock"
         },
