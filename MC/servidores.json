@@ -6,7 +6,7 @@
         "version": {
             "server": "1.21.4",
             "multi": "yes",
-            "mc": "java"
+            "mc": "all"
         },
         "ip": "mc.friends.com",
         "port": "25565"
@@ -18,7 +18,7 @@
         "version": {
             "server": "1.20.1",
             "multi": "no",
-            "mc": "bedrock"
+            "mc": "all"
         },
         "ip": "survival.game",
         "port": "19132"
