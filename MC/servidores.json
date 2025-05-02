@@ -34,5 +34,17 @@
         },
         "ip": "nauticbedrock.net",
         "port": ""
+    },
+    {
+        "name": "Technobot",
+        "icon": "",
+        "descripción": "Bienvenido a §1Technobot",
+        "version": {
+            "server": "1.21.4",
+            "multi": "yes",
+            "mc": "all"
+        },
+        "ip": "technobot.aternos.me",
+        "port": "43970"
     }
 ]
