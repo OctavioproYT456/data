@@ -33,5 +33,10 @@
         "name": "La Z FM",
         "icon": "https://static.mytuner.mobi/media/tvos_radios/335/la-z-1073.071021f6.png",
         "url": "https://19013.live.streamtheworld.com/XEQR_FMAAC_SC?dist=tg&pname=TDSdk"
+    },
+    {
+        "name": "Radio Ranchito",
+        "icon": "https://static.mytuner.mobi/media/tvos_radios/631/radio-ranchito.88803f31.png",
+        "url": "https://drmx.streamguys1.com/ranchito"
     }
 ]
