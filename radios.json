@@ -28,5 +28,10 @@
         "name": "Latina Bachata",
         "icon":  "https://static.mytuner.mobi/media/tvos_radios/28gwe9qp3fxw.png",
         "url": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3"
+    },
+    {
+        "name": "La Z FM",
+        "icon": "https://static.mytuner.mobi/media/tvos_radios/335/la-z-1073.071021f6.png",
+        "url": "https://19013.live.streamtheworld.com/XEQR_FMAAC_SC?dist=tg&pname=TDSdk"
     }
 ]
