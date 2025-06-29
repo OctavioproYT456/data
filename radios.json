@@ -43,5 +43,10 @@
         "name": "La comadre 1260 AM",
         "icon": "https://static.mytuner.mobi/media/tvos_radios/760/la-comadre-1260-am.7cc61345.png",
         "url": "https://17843.live.streamtheworld.com/XELAMAAC_SC"
+    },
+    {
+        "name": "La Mejor 97.7 FM",
+        "icon": "https://static.mytuner.mobi/media/tvos_radios/507/knnr-la-mejor-977-fm.d57d3d95.jpg",
+        "url": "https://19793.live.streamtheworld.com/XERCFM_SC?dist=tunein"
     }
 ]
