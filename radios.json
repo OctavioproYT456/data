@@ -52,7 +52,8 @@
     {
         "name": "Cumbias Mix",
         "icon": "https://static.mytuner.mobi/media/tvos_radios/942/cumbias-mix.7738dc63.jpg",
-        "url": "https://stream.zeno.fm/6ww6y8v8dy3uv"
+        "url": "https://stream-169.zeno.fm/6ww6y8v8dy3uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2d3c2eTh2OGR5M3V2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRBcV9YRnZSVGp1Y3RmV0VwSktOYkEiLCJpYXQiOjE3NTcyNjY4MjIsImV4cCI6MTc1NzI2Njg4Mn0.1ingxKf4l-7J80difkYFbw1m9bAzdkWN4RU7eZmda8g",
+        "url2": "https://stream.zeno.fm/6ww6y8v8dy3uv"
     },
     {
         "name": "88.9 Noticias",
@@ -60,3 +61,4 @@
         "url": "https://24083.live.streamtheworld.com/XHMFMAAC_SC"
     }
 ]
+
