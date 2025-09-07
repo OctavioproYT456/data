@@ -12,7 +12,8 @@
     {
         "name": "Gallito 760 AM",
         "icon":  "https://static.mytuner.mobi/media/tvos_radios/085/gallito-760-am.b93a19c3.png",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GALLITO_GDL_SC"
+        "url": "https://26443.live.streamtheworld.com/GALLITO_GDL_SC",
+        "url2": "https://playerservices.streamtheworld.com/api/livestream-redirect/GALLITO_GDL_SC"
     },
     {
         "name": "La Sabrosita 590 AM",
@@ -61,4 +62,5 @@
         "url": "https://24083.live.streamtheworld.com/XHMFMAAC_SC"
     }
 ]
+
 
